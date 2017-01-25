@@ -17,7 +17,7 @@ ul{list-style-type:none; margin:0 auto;}
 .ul-1 li, .ul-2 li, .ul-6 li{margin:0 10px;}
 .ul-1{font-size:.9em; letter-spacing:1px;}
 .ul-2{font-size:.75em; font-weight:600;}
-.banner{background:url(banner1.jpg) center center no-repeat; width:100%; height:630px;
+.banner{background:url(banner1.jpg) center center no-repeat; width:100%; height:640px;
 box-shadow: 0px 10px 189px -27px rgba(0,0,0,0.66);}
 
 /*.banner img{width:100%;height:630px; z-index:-1;}*/
@@ -25,8 +25,8 @@ box-shadow: 0px 10px 189px -27px rgba(0,0,0,0.66);}
 .banner-btns{background:white; padding:8px 40px; border:white solid 2px; border-radius:3px; font-size:.7em; opacity:1;}
 .banner-btns:hover{border:#cab882 inset 2px;}
 .gallery{margin:0 auto; margin-top:60px;}
-.gallery .primary{margin:100px 0;}
-.banner-nav{height:100px; background:rgba(24,28,31,.96); justify-content:space-around; margin:0 auto; box-shadow: 0px 10px 189px -27px rgba(0,0,0,0.66); margin-top:-150px; margin-bottom:70px; width:100%;}
+.gallery .primary{margin: 80px 0 120px 0;}
+.banner-nav{height:100px; background:rgba(24,28,31,.96); justify-content:space-around; margin:0 auto; box-shadow: 0px 10px 189px -27px rgba(0,0,0,0.3); margin-top:-160px; margin-bottom:70px; width:100%;}
 .gallery .secondary img{height:116px; width:256px;}
 .gallery .secondary h4, .gallery .secondary h5, .gallery h4{margin:0;}
 
