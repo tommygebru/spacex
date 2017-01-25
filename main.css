@@ -10,7 +10,7 @@
 body{margin:0;}
 .container{margin:0 auto;}
 h2{color:white; font-size:1.8em;}
-.top-nav{height:80px; margin:0 auto; width:100%; background:rgb(24,28,31);}
+.top-nav{height:75px; margin:0 auto; width:100%; background:rgb(24,28,31);}
 .top-nav img{margin-top:-15px; margin-right:-60px;}
 .nav-wrap{margin:30px;}
 ul{list-style-type:none; margin:0 auto;}
@@ -26,7 +26,7 @@ box-shadow: 0px 10px 189px -27px rgba(0,0,0,0.66);}
 .banner-btns:hover{border:#cab882 inset 2px;}
 .gallery{margin:0 auto; margin-top:60px;}
 .gallery .primary{margin:100px 0;}
-.banner-nav{height:90px; background:rgba(24,28,31,.96); justify-content:space-around; margin:0 auto; box-shadow: 0px 10px 189px -27px rgba(0,0,0,0.66); margin-top:-150px; margin-bottom:70px; width:100%;}
+.banner-nav{height:100px; background:rgba(24,28,31,.96); justify-content:space-around; margin:0 auto; box-shadow: 0px 10px 189px -27px rgba(0,0,0,0.66); margin-top:-150px; margin-bottom:70px; width:100%;}
 .gallery .secondary img{height:116px; width:256px;}
 .gallery .secondary h4, .gallery .secondary h5, .gallery h4{margin:0;}
 
